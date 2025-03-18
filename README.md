@@ -52,7 +52,7 @@ el cual permite ingresar los nombres de los amigos y seleccionar un ganador medi
 </div>
 <br><br>
 
--`Paso 5`: DISFRUTA!
+- `Paso 5`: DISFRUTA!
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b46bb933-b5f4-41d8-8f1f-b48cc681d4d8"  width="500">
 </div>
